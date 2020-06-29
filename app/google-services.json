@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "230336766017",
+    "firebase_url": "https://comexampleimageuploading.firebaseio.com",
+    "project_id": "comexampleimageuploading",
+    "storage_bucket": "comexampleimageuploading.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230336766017:android:0a6f8f6c29354af1d926c0",
+        "android_client_info": {
+          "package_name": "com.example.imageuploading"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230336766017-40f9i7ga4h4bc2vrp5ubr3tu4k5p76pf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.imageuploading",
+            "certificate_hash": "832d411614c9eb353c79b300312be81ac4729c4b"
+          }
+        },
+        {
+          "client_id": "230336766017-vossgc0mjqaf4bup5s965i20dcqj86j0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNwuiMIeZHawRHCgp56cZ6JSY0aWwaYeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230336766017-vossgc0mjqaf4bup5s965i20dcqj86j0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
